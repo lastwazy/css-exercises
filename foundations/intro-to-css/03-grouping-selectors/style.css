@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.dark,
+.bee {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.dark {
+    color: #ffff;
+    background-color: #000000;
+}
+
+.bee {
+    background-color: #f3e568;
+}
